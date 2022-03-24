@@ -1,0 +1,8 @@
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\bin\Debug\Repaso - Ejercicio 01.exe.config
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\bin\Debug\Repaso - Ejercicio 01.exe
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\bin\Debug\Repaso - Ejercicio 01.pdb
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\obj\Debug\Repaso - Ejercicio 01.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\obj\Debug\Repaso - Ejercicio 01.csproj.SuggestedBindingRedirects.cache
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\obj\Debug\Repaso - Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\obj\Debug\Repaso - Ejercicio 01.exe
+C:\Users\agustin\Desktop\Agustin\UBA\2022 1C - CAI\04 - Ejercicios\Repaso - Ejercicio 01\Repaso - Ejercicio 01\obj\Debug\Repaso - Ejercicio 01.pdb
