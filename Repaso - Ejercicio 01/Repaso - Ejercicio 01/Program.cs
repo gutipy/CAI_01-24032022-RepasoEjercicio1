@@ -12,7 +12,7 @@ namespace Repaso___Ejercicio_01
         {
             Ejercicios_r E = new Ejercicios_r();
 
-            E.G1E01_r();
+            E.G1E02_r();
 
             Console.WriteLine("Ingrese enter para salir...");
             Console.ReadLine();
